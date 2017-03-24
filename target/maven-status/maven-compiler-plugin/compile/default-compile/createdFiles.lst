@@ -1,0 +1,7 @@
+com\taotao\pojo\EasyUIResult.class
+com\taotao\pojo\Item.class
+com\taotao\pojo\PictureResult.class
+com\taotao\pojo\ItemCategory.class
+com\taotao\pojo\TreeNode.class
+com\taotao\constants\ItemConstants.class
+com\taotao\constants\ItemConstants$ItemCategoryConstant.class
